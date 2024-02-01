@@ -1,0 +1,6 @@
+Non-Functional Requirements:
+
+Scalability – At an avg of lakhs of users can use the application at a given second. It should scale to handle those users.
+Availability -  99.9% uptime
+Performance – Response time of  <500ms at 99th percentile
+Data Consistence- Consistency over Availability

@@ -1,0 +1,46 @@
+Observation:
+   We have two actorys in this system
+       - Theatre Owner
+       - Audience
+
+Functional Requirements for Theatre Owner:
+  1.	How many people can watch a show?
+  2.	How many screens are there?
+  3.	Timing of each shows?
+  4.	When they can book ?
+  5.	Give me the analytics report ?
+  6.	Screen availability
+  7.	How many seats a single user can book ?
+  8.	How the refund can be handled?
+  9.  Moives registration
+  
+
+Functional Requirements for Audience:
+  1.	Which movie is running in which theatre
+  2.	Which is the nearest theatre to me?
+  3.	Which theatre shows with less cost (cost comparison)?
+  4.	How to notify user of cancellation of shows?
+  5.	Booking history
+  6.  Ticket booking
+
+Theatre Owners
+ In-Scope:
+  1.	User registration
+  2.	Register movies.
+  3.	Analytics
+  4.  Screen Registration
+ 
+ Out of Scope:
+  1.	Pre-Parking
+
+Audience
+ In-Scope:
+  1.	User registration
+  2.	Ticket Booking
+  3.	Booking History
+  4.	Notification/Updates to the user
+ 
+ Out of Scope:
+ 1.	Payments
+ 2.	Food and beverage booking
+
