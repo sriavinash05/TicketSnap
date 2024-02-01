@@ -21,12 +21,14 @@ Functional Requirements for Audience:
   3.	Which theatre shows with less cost (cost comparison)?
   4.	How to notify user of cancellation of shows?
   5.	Booking history
+  6.  Ticket booking
 
 Theatre Owners
  In-Scope:
   1.	User registration
   2.	Register movies.
   3.	Analytics
+  4.  Screen Registration
  
  Out of Scope:
   1.	Pre-Parking
