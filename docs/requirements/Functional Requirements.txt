@@ -12,6 +12,8 @@ Functional Requirements for Theatre Owner:
   6.	Screen availability
   7.	How many seats a single user can book ?
   8.	How the refund can be handled?
+  9.  Moives registration
+  
 
 Functional Requirements for Audience:
   1.	Which movie is running in which theatre
